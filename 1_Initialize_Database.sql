@@ -54,3 +54,4 @@ BULK INSERT IBM_HR.dbo.LoadingTable
 			FIELDTERMINATOR = ','
 		);
 GO
+

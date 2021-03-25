@@ -1,3 +1,6 @@
+USE IBM_HR;
+GO
+
 INSERT INTO EmployeeKey(
 	EmployeeNumber,
 	Attrition

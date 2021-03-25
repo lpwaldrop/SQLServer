@@ -1,3 +1,6 @@
+USE IBM_HR;
+GO
+
 --Table to store primary key.
 CREATE TABLE EmployeeKey (
 	EmployeeNumber smallint PRIMARY KEY,
